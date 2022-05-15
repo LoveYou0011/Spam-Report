@@ -6,11 +6,11 @@
 
 <h1 align="center">SpamReport (Alpha)</h1>
 <p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/SpamReport">
-  <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/SpamReport.svg" alt="Latest version">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/LoveYou0011/Spam-Report">
+  <img alt="Latest version" src="https://img.shields.io/github/v/release/LoveYou0011/Spam-Report.svg" alt="Latest version">
 
   <p align="center">
-    Este script foi feito apenas para uso educacional, não me responsabilizo por qualquer uso indevido.
+    This script was made for educational use only, I am not responsible for any misuse.
   </p>
 </p>
 
@@ -19,9 +19,10 @@
 ![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
 
 ![banner](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
-> Ative essa opção no Gmail em que você irá utilizar.
 
-> Obs: usuários de IOS, cliquem aqui [**aqui**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
+> Activate this option in the Gmail you will be using.
+
+> Note: IOS users, click here [**here**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
 
 <p align="center" >
   <h2 align="center">📧 Groups</h2>
@@ -30,7 +31,8 @@
 
 <h2 align="center">🖥 Install</h2>
 
-<a href="https://youtu.be/16dNoyWNjXw">Tutorial de Instalação/Uso(Clique Aqui)</a>
+<a href="https://youtu.be/16dNoyWNjXw">Installation/Usage Tutorial(Click Here)
+</a>
 
 ```
 📱iSH
