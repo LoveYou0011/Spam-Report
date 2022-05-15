@@ -23,7 +23,8 @@ console.log("Hello world!");
 const Spam-Report = {
     [i] Codded By: LoveYou0011,
     [i] Github: https://github.com/LoveYou0011/Spam-Report,
-    [i]: Remember to activate the 'Less Secure Apps' option on the account you are going to use [ ! ],
+    [i]: Remember to activate the 'Less Secure Apps' 
+    option on the account you are going to use [ ! ],
 
     [1] Deactivate Number
     [2] Remove Counter
