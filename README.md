@@ -40,14 +40,16 @@ const Spam-Report = {
 });;
 ```
 
-← Accessing less secure apps Some devices and apps use less secure login technology, which makes your account more vulnerable.  We recommend that you disable access for these applications.  If you want to use them despite the risks, enable access.  Google will automatically disable this setting if it is not being used.  Learn more Allow less secure applications : ON
+
+← Accessing less secure apps Some devices and apps use less secure login technology, which makes your account more vulnerable.  We recommend that you disable access for these applications.  If you want to use them despite the risks, enable access.  Google will automatically disable this setting if it is not being used.
+
 > Activate this option in the Gmail you will be using.
 
 > Note: IOS users, click here [**here**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
 
 <p align="center" >
-  <h2 align="center">📧 Groups</h2>
-<a href="https://chat.whatsapp.com/Lg9Ku0IeMNu4D54Ux3Y2c0" alt="WhatsApp">
+  <h2 align="center">📧 Message Me </h2>
+<a href="https:/wa.me/+917909139146" alt="WhatsApp">
   <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
 
 <h2 align="center">🖥 Install</h2>
