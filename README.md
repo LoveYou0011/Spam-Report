@@ -16,7 +16,29 @@
 
 <h3><p align="center">Version: 1.0 Alpha</p></h3>
 
-![image](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210803-WA0578.jpg)
+<h2>:man_technologist: REQUIRM</h2>
+
+```js
+console.log("Hello world!");
+const Spam-Report = {
+    [i] Codded By: LoveYou0011,
+    [i] Github: https://github.com/LoveYou0011/Spam-Report,
+    [i]: Remember to activate the 'Less Secure Apps' option on the account you are going to use [ ! ],
+
+    [1] Deactivate Number
+    [2] Remove Counter
+    [3] Remove Ban
+    [4] Ban Number 
+    [5] Take Down Armor
+    [6] Armor Number
+    [7] ??? 
+
+    [8] Release Permission
+    [9] WhatsApp Group
+    [0] Leave
+   }
+}
+```
 
 ![banner](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
 
