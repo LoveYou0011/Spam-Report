@@ -37,11 +37,10 @@ const Spam-Report = {
     [9] WhatsApp Group
     [0] Leave
    }
-}
+});;
 ```
 
-![banner](https://github.com/Kiny-Kiny/SpamReport/blob/main/IMG-20210620-WA0488.jpg)
-
+← Accessing less secure apps Some devices and apps use less secure login technology, which makes your account more vulnerable.  We recommend that you disable access for these applications.  If you want to use them despite the risks, enable access.  Google will automatically disable this setting if it is not being used.  Learn more Allow less secure applications : ON
 > Activate this option in the Gmail you will be using.
 
 > Note: IOS users, click here [**here**](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OSggjYOgt8g8HbgSU58LpUqQ5GsD63ipENqa84YegMHionqqvIXMMoc4bqu-C0GH0N--Kal_AFpd5rRJYyO0g-y1AbEQ)
